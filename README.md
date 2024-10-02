@@ -1,6 +1,6 @@
 # Stock Market Kafka Real-Time Data Engineering Project
 
-![Stock Market Kafka Real Time Data Engineering Project](./stuck Market Structure.png)
+![Stock Market Kafka Real Time Data Engineering Project](./Stock_Market_Structure.drawio.png)
 
 ## Project Description
 This project involves simulating a real-time stock market application, where stock market data is ingested in real-time, processed using Apache Kafka, and stored in Amazon S3 for further analytics using AWS Glue and Amazon Athena.
